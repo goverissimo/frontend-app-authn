@@ -28,9 +28,9 @@ const MediumLayout = () => {
                 )}
               >
                 <span>
-                  {formatMessage(messages['start.learning'])}{' '}
+                  Começar a aprender com a{' '}
                   <span className="text-accent-a d-inline-block">
-                    {formatMessage(messages['with.site.name'], { siteName: getConfig().SITE_NAME })}
+                    Academia de Cuidadores
                   </span>
                 </span>
               </h1>

@@ -10,12 +10,12 @@ const messages = defineMessages({
   // logistration strings
   'logistration.sign.in': {
     id: 'logistration.sign.in',
-    defaultMessage: 'Sign in',
+    defaultMessage: 'Iniciar Sessão',
     description: 'Text that appears on the tab to switch between login and register',
   },
   'logistration.register': {
     id: 'logistration.register',
-    defaultMessage: 'Register',
+    defaultMessage: 'Registar',
     description: 'Text that appears on the tab to switch between login and register',
   },
   // enterprise sso strings
@@ -48,27 +48,27 @@ const messages = defineMessages({
   // password field strings
   'show.password': {
     id: 'show.password',
-    defaultMessage: 'Show password',
+    defaultMessage: 'Mostrar password',
     description: 'aria label for show password icon on password field',
   },
   'hide.password': {
     id: 'hide.password',
-    defaultMessage: 'Hide password',
+    defaultMessage: 'Esconder password',
     description: 'aria label for hide password icon on password field',
   },
   'one.letter': {
     id: 'one.letter',
-    defaultMessage: '1 letter',
+    defaultMessage: '1 letra',
     description: 'password requirement to have 1 letter',
   },
   'one.number': {
     id: 'one.number',
-    defaultMessage: '1 number',
+    defaultMessage: '1 número',
     description: 'password requirement to have 1 number',
   },
   'eight.characters': {
     id: 'eight.characters',
-    defaultMessage: '8 characters',
+    defaultMessage: '8 caracteres',
     description: 'password requirement to have a minimum of 8 characters',
   },
   'password.sr.only.helping.text': {
